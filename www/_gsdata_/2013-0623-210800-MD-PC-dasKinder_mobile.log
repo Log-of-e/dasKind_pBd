@@ -1,0 +1,30 @@
+2013-06-23 21:08:05: -- dasKinder_mobile: ANALYSIS started by User on 'MD-PC' (GoodSync 9.4.9.9)
+2013-06-23 21:08:05: ~Mark\Documents\GitHub\dasKind_pBd\www (C:\Users\Mark\Documents\GitHub\dasKind_pBd\www) <-> ftps://ftp.bandofmusicians.com/Strip_Compare/www
+2013-06-23 21:08:05: L: State file does not exist: C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\_gsdata_\_file_state._gs
+2013-06-23 21:08:05: L: No State File found, New State will be built
+2013-06-23 21:08:05: L: Files: 17 (excluded 2). Folders: 2 (excluded 0). C: NTFS, Free: 1.39 GB, Total: 220 GB
+2013-06-23 21:08:06: R: State file does not exist: ftps://ftp.bandofmusicians.com/Strip_Compare/www/_gsdata_/_file_state._gs
+2013-06-23 21:08:10: R: No State File found, New State will be built
+2013-06-23 21:08:10: R: Files: 8 (excluded 0). Folders: 1 (excluded 0). FTP: Welcome to the Yahoo! Web Hosting FTP serverNeed help? Get all details at:http://help.yahoo.com/help/us/webhosting/gftp/ No anon ...
+2013-06-23 21:08:10: /default_dasKinderMain.js: Conflict: New files that differ
+2013-06-23 21:08:10: /media/01_Susies_dnc_09-05-12.mp3: Conflict: New files that differ
+2013-06-23 21:08:10: /media/02-War Master 01-16-13.mp3: Conflict: New files that differ
+2013-06-23 21:08:10: /media/FRONT.jpg: Conflict: New files that differ
+2013-06-23 21:08:10: /readme.rd: Conflict: New files that differ
+2013-06-23 21:08:10: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2013-06-23 21:08:10: Changes: 21, Conflicts: 5, CopyTime: 0, CopyState: 0/1, Errors: 0
+2013-06-23 21:08:10: Left to Right: Copy File: 13 
+2013-06-23 21:08:10: Right to Left: Copy File: 3 
+2013-06-23 21:08:10: -- Analysis Completed. Time 00:00:10, Speed: 2 files/s
+2013-06-23 21:08:10: 
+2013-06-23 21:21:19: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2013-06-23 21:21:19: == dasKinder_mobile: SYNC started by User on 'MD-PC'
+2013-06-23 21:21:19: ~Mark\Documents\GitHub\dasKind_pBd\www (C:\Users\Mark\Documents\GitHub\dasKind_pBd\www) <-> ftps://ftp.bandofmusicians.com/Strip_Compare/www
+2013-06-23 21:21:20: Cannot rename lock file to stamp file: cannot RNFR: Sorry, but that file doesn't exist
+2013-06-23 21:21:20: Cannot delete lock file: Server says: Could not delete /Strip_Compare/www/_gsdata_/lock.gsl: No such file or directory
+2013-06-23 21:21:20: State file has changed since Analyze, by another Sync. Please Analyze again:
+State file: ftps://ftp.bandofmusicians.com/Strip_Compare/www/_gsdata_/_file_state_v4._gs
+new: [size=407 time=2013-06-23 21:18:18] != 
+old: [size=18,446,744,073,709,551,615 time=(null-time)]
+
+2013-06-23 21:21:20: 
